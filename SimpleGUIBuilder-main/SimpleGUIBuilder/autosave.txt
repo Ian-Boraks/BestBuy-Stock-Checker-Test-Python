@@ -1,0 +1,1 @@
+[[sg.Text(text="Enter the SKUs you want to monitor", size=(40, 1)), sg.Text(text="Webhook", size=(40, 1))], [sg.Input(default_text="6429434, 6429440, 6429442, 6430277, 6428324, 6439402", size=(40, 1), key="SKU"), sg.Input(default_text="Webhook URL", size=(40, 1), key="WEB")], [sg.Button(button_text="Save All", key="SAVE"), sg.Button(button_text="Start", key="START")]]
